@@ -1,2 +1,2 @@
 # Site web pour le logiciel de loto associatif
-- [Les sources](https://github.com/florian-mollin/loto-associatif-app)
+- [Les sources](https://github.com/florian-mollin/loto-associatif-app) de l'application
